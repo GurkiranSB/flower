@@ -98,7 +98,7 @@ my_turtle = turtle.Turtle()
 
 
 #The following will create a normal sized flower design with stick
-stick(my_turtle, angle)
+stick(my_turtle, 20)
 flower(my_turtle, 9, 150, 45, color2)
 flower(my_turtle, 9, 100, 45, color1)
 
